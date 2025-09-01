@@ -49,6 +49,9 @@ int main()
 ```
 
 ## Output:
+<img width="855" height="311" alt="image" src="https://github.com/user-attachments/assets/41a9fdfc-1ebf-4a7e-95fb-f4dc8666df13" />
+
+## Result:
 ```
 Input:
 20
@@ -56,6 +59,3 @@ Input:
 Output:
 x = 20
 ```
-## Result:
-<img width="855" height="311" alt="image" src="https://github.com/user-attachments/assets/41a9fdfc-1ebf-4a7e-95fb-f4dc8666df13" />
-
