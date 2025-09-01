@@ -50,6 +50,9 @@ int main()
 ```
 
 ## Output:
+<img width="882" height="332" alt="image" src="https://github.com/user-attachments/assets/fe50c87f-9653-48f2-9bb8-79dd7f310fbc" />
+
+## Result:
 ```
 Input:
 1
@@ -57,6 +60,3 @@ Input:
 Output:
 VirtualOne
 ```
-## Result:
-<img width="882" height="332" alt="image" src="https://github.com/user-attachments/assets/fe50c87f-9653-48f2-9bb8-79dd7f310fbc" />
-
