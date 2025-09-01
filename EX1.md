@@ -46,7 +46,11 @@ int main()
 }
 
 ```
+
 ## Output:
+<img width="851" height="446" alt="image" src="https://github.com/user-attachments/assets/dc35da25-7266-497f-8824-4d9bab9ca1bd" />
+
+## Result:
 ```
 Input:
 275000
@@ -55,6 +59,3 @@ Input:
 Output:
 Income after the payment of Tax : 262500
 ```
-## Result:
-<img width="851" height="446" alt="image" src="https://github.com/user-attachments/assets/dc35da25-7266-497f-8824-4d9bab9ca1bd" />
-
