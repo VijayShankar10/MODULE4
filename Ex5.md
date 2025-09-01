@@ -52,6 +52,9 @@ int main()
 ```
 
 ## Output:
+<img width="874" height="427" alt="image" src="https://github.com/user-attachments/assets/e6f4fcd1-3b3c-4e09-b255-5c975ef883e2" />
+
+## Result:
 ```
 Input:
 KUMAR
@@ -61,6 +64,3 @@ Constructor A(string a) is invoked
 Data in object of class B = KUMAR
 Data in member object of class A in class B = KUMAR
 ```
-## Result:
-<img width="874" height="427" alt="image" src="https://github.com/user-attachments/assets/e6f4fcd1-3b3c-4e09-b255-5c975ef883e2" />
-
